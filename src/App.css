@@ -1,0 +1,216 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+  /* overflow-x: hidden; */
+}
+
+.abc img {
+  width: 100px;
+  border-radius: 50%;
+}
+
+.navbar-expand-lg {
+  background-color: #0069c7;
+}
+
+.navbar-nav {
+  font-size: 20px;
+}
+
+.navbar-nav a {
+  color: rgb(231, 226, 226);
+  text-decoration: none;
+}
+
+.navbar-nav a:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.aid .carousel-indicators button {
+  border-radius: 50%;
+  width: 12px;
+  height: 12px;
+}
+
+.cal .card {
+  border: none;
+}
+
+.cal h1 {
+  text-align: center;
+  color: darkcyan;
+}
+
+.fla {
+  position: absolute;
+  padding-left: 40px;
+  padding-right: 60px;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  border-radius: 30px;
+  font-size: 20px;
+}
+
+.fal {
+  position: relative;
+  margin-left: 147px;
+  color: #0069c7;
+  background-color: white;
+  padding: 18px;
+  font-size: 22px;
+  border-radius: 30px;
+}
+
+.card .fok {
+  color: gray;
+  text-decoration: line-through;
+}
+
+.lak img {
+  box-shadow: 2px 2px 4px gray;
+}
+
+.bag {
+  background-color: rgb(237, 237, 237);
+}
+
+.gren {
+  background-color: #0069c7;
+}
+
+.lok img {
+  box-shadow: 4px 4px 6px white;
+}
+
+.none .card {
+  border: none;
+  border-right: 3px solid rgb(211, 211, 211);
+  transition: filter 1s;
+}
+
+.none .card:hover {
+  filter: drop-shadow(10px 10px 20px #0069c7);
+}
+
+.local {
+  height: 80vh;
+  background-size: cover;
+  background-color: black;
+}
+
+footer {
+  background-color: #0069c7;
+}
+
+@media screen and (min-width:1027px) {
+  .sqnw {
+      margin-left: 340px;
+  }
+}
+
+@media screen and (min-width:1027px) {
+  .dot img {
+    height: 80vh;
+  }
+}
+
+@media screen and (min-width:1027px) {
+  .ali img {
+    height: 30vh;
+  }
+}
+
+@media screen and (min-width:1027px) {
+  .lok img {
+    height: 60vh;
+  }
+}
+
+@media screen and (max-width:1492px) {
+  .cal {
+      margin-top: 110px;
+  }
+}
+
+@media screen and (max-width:992px) {
+  .dol {
+      text-align: center;
+      padding-bottom: 30px;
+  }
+}
+
+@media screen and (max-width:1492px) {
+  .lak image {
+      width: 600px;
+  }
+}
+
+@media screen and (max-width:768px) {
+  .lak image {
+      width: 300px;
+  }
+}
+
+@media screen and (max-width:1200px) {
+  .met img {
+      margin-top: 10px;
+  }
+}
+
+@media screen and (max-width:1200px) {
+  .nara {
+      margin-top: 20px;
+  }
+}
+
+@media screen and (max-width:768px) {
+  .local {
+      min-height: 30px;
+  }
+}
+
+@media screen and (max-width:1200px) {
+  .none .card {
+      margin-top: 20px;
+  }
+}
+
+.fff {
+  border: 2px solid #0069c7;
+}
+
+.upload {
+  color: #0672d0;
+}
+
+.gradient-custom-3 {
+  background: -webkit-linear-gradient(to right, rgba(132, 250, 176, 0.5), rgba(143, 211, 244, 0.5));
+  background: white;
+}
+
+.gradient-custom-4 {
+  background: #84fab0;
+  background: #0069c7;
+}
+
+.trt{
+  border-color:  #0069c7;
+  border-radius: 15px;
+  border-width: 2px;
+}
+
+@media screen and (max-width:780px) {
+  .bat {
+      margin-top: 60px;
+  }
+}
+
+.bott{
+  text-decoration: none;
+}
